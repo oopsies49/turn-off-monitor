@@ -1,0 +1,7 @@
+[package]
+name = "turn-off-screen"
+version = "0.1.0"
+authors = ["bradhenry <brad.henry.49@gmail.com>"]
+
+[dependencies]
+winapi = { version = "0.3", features = ["winuser"] }
