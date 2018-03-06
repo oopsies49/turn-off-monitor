@@ -1,5 +1,5 @@
 [package]
-name = "turn-off-screen"
+name = "turn-off-monitor"
 version = "0.1.0"
 authors = ["bradhenry <brad.henry.49@gmail.com>"]
 
